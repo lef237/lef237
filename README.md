@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @lef237
 - 👀 I’m interested in elephants.
-- 🌱 I’m currently learning Ruby, Rails and JavaScript in FjordBootCamp.
+- 🎓 I graduated from Fjord Boot Camp.
+- 🏢 I'm working at Enishi Tech Inc.
+- 💎 I like Ruby very much!
+- 🌱 I’m currently learning TypeScript, Golang and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
