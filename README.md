@@ -1,6 +1,3 @@
-- 👋 Hi, I’m LEF(`@lef237`).
-- 🐘 I’m interested in elephants.
-- 🌱 I like programming very much!
 - 📫 How to contact: `lef237k5☆gmail.com`
   - Please replace `☆` with `@`
 
